@@ -3,4 +3,4 @@
  
 Repositório criado com base nas aulas do canal Curso em Vídeo
 
-linha alteradadireto do GitHub
+linha alterada direto do GitHub
